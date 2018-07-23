@@ -8,4 +8,7 @@
     </UpgradeBackupLocation>
     <OldToolsVersion>2.0</OldToolsVersion>
   </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GameClasses\DataStructures.csproj" />
+  </ItemGroup>
 </Project>
